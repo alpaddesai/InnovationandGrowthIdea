@@ -41,4 +41,8 @@ Images are custom.
 ## EDA Regression 
 ![image](EDARegressionModel.png)
 
+## Multiple Regression Equation
+![image](MultipleRegressionEquations.png)
 
+## Predictors
+![image](Predictors.png)
