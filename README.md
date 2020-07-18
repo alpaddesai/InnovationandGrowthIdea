@@ -22,3 +22,6 @@ Images are custom.
 
 ## EDA Revenue
 ![image](EDARevenue.png)
+
+## Competitive Landscape
+![image](CompetitiveLandscape.png)
