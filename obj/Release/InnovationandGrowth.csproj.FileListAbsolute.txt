@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\bin\Release\InnovationandGrowth.exe.config
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\bin\Release\InnovationandGrowth.exe
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\bin\Release\InnovationandGrowth.pdb
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.Form1.resources
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.Properties.Resources.resources
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.exe
+C:\Users\alpag\source\repos\InnovationandGrowth\InnovationandGrowth\obj\Release\InnovationandGrowth.pdb
