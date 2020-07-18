@@ -26,5 +26,8 @@ Images are custom.
 ## Competitive Landscape
 ![image](CompetitiveLandscape.png)
 
-## SWOT analysis
+## SWOT Analysis
 ![image](SWOTanalysis.png)
+
+## Marketing Engagement
+![image](MarketEngagement.png)
