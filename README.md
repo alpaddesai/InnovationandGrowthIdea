@@ -25,3 +25,6 @@ Images are custom.
 
 ## Competitive Landscape
 ![image](CompetitiveLandscape.png)
+
+## SWOT analysis
+![image](SWOTanalysis.png)
