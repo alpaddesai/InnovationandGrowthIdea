@@ -17,4 +17,5 @@ Images are custom.
 ## Executive Summary
 ![image](ExecutiveSummary.png)
 
-## 
+## Marketing Sensing
+![image](MarketingSensing.png)
