@@ -20,5 +20,5 @@ Images are custom.
 ## Marketing Sensing
 ![image](MarketingSensing.png)
 
-## Synopsys
-![image](Synopsys.png)
+## EDA Revenue
+![image](EDARevenue.png)
