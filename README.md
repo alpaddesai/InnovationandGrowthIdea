@@ -31,3 +31,8 @@ Images are custom.
 
 ## Marketing Engagement
 ![image](MarketEngagement.png)
+
+## Marketing Goals and Objectives
+![image](MarketingGoalsObjectives.png)
+
+
