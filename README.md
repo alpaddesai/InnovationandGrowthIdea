@@ -35,4 +35,10 @@ Images are custom.
 ## Marketing Goals and Objectives
 ![image](MarketingGoalsObjectives.png)
 
+## Marketing Strategy 
+![image](MarketingStrategy.png)
+
+## EDA Regression 
+![image](EDARegressionModel.png)
+
 
