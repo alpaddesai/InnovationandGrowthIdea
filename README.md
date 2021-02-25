@@ -47,5 +47,5 @@ Images are custom.
 ## Predictors
 ![image](Predictors.png)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/ManagerialOperations
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw , https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/ManagerialOperations
 
