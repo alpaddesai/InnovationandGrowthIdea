@@ -50,4 +50,6 @@ Images are custom.
 ## Project Schedule
 ![image](ProjectSchedule.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw , https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/ManagerialOperations
