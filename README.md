@@ -52,4 +52,6 @@ Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
+![imaged](Ethics.jgp)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw , https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/ManagerialOperations
