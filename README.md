@@ -54,4 +54,4 @@ Images are custom.
 
 ![image](Ethics.jpg)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw , https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/ManagerialOperations
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/ManagerialOperations
